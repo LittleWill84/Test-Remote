@@ -11,6 +11,8 @@ public class ControllerMain implements ActionListener{
 
 	
 	public ControllerMain(int resultAcces) {
+		
+		System.out.println("Segunda Prueba GIT");
 		//Inicializo Instancias
 		guiM = new GUIMain(resultAcces);
 		
